@@ -1,3 +1,3 @@
-module github.com/dghubble/trie
+module github.com/pedrogao/trie
 
 go 1.16
